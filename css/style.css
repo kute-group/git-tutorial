@@ -907,3 +907,29 @@
 	-ms-transition:all 0.1s ease-in;
 	transition:all 0.1s ease-in;
 }
+.container {
+	width: 1170px;
+	margin: auto;
+	text-align: center;
+}
+.container .left-map {
+	width: 50%;
+	float: left;
+}
+.container .right-contact {
+	width: 50%;
+	float: right;
+	text-align: none;
+	
+}
+.container .right-contact p {
+	width: 100%;
+	padding-left: 200px;
+	text-align: left;
+}
+.container .right-contact p .wpcf7-submit{
+	background-color: #2693cc;
+	color: white;
+	border: none;
+}
+
