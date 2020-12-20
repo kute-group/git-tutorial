@@ -932,4 +932,16 @@
 	color: white;
 	border: none;
 }
+.container .text-left{
+	margin-left: 0px;
+	float: left;
+	margin-bottom: 1px;
+}
+.container .title{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-bottom: 1px solid black;
+	padding-bottom: 4px;
+	text-align: left;
+	margin-top: 74px;
 
+}
